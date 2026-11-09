@@ -1,0 +1,25 @@
+---
+title: "Hoang Cao"
+---
+
+## Welcome
+
+I am a Statistics and Data Science undergraduate at UCLA, with an expected graduation date of June 2027. I am a military veteran interested in applying analytical and problem-solving skills to real-world challenges.
+
+## Education
+
+**University of California, Los Angeles**\
+Statistics and Data Science\
+Expected graduation: June 2027
+
+## Experience and Projects
+
+Details about my military experience and statistical projects will be added here.
+
+## Resume
+
+My resume will be available here soon.
+
+## Contact
+
+Contact information will be added here.
